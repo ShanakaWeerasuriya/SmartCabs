@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="DummyRoot"  description="">
+        <siteMapNode url="~/Home.aspx" title="HOME"  description="" />
+        <siteMapNode url="~/Users/BackOfficeBooking.aspx" title="Back Office Booking"  description="" />
+        <siteMapNode url="~/Traveller/Booking.aspx" title="Bookings"  description="" />
+        <siteMapNode url="~/Traveller/TravelerDash.aspx" title="Traveller Dashboard"  description="" />
+        <siteMapNode url="~/Registration/DriverRegistration.aspx" title="Driver Registration"  description="" />
+        <siteMapNode url="~/Registration/TravellerRegistration.aspx" title="Traveller Registration"  description="" />
+        <siteMapNode url="~/Registration/Login.aspx" title="Login"  description="" />
+        <siteMapNode url="~/Registration/UserRegistration.aspx" title="User Registration"  description="" />
+        <siteMapNode url="~/Driver/DriverDash.aspx" title="Driver Dashboard"  description="" />
+        <siteMapNode url="~/AccountDetails/DriverDetails.aspx" title="Driver Details"  description="" />
+        <siteMapNode url="~/AccountDetails/EditDriverDetails.aspx" title="Edit Driver Details"  description="" />
+        <siteMapNode url="~/AccountDetails/EditTravellerDetails.aspx" title="Edit Traveller Details"  description="" />
+        <siteMapNode url="~/AccountDetails/EditUserDetails.aspx" title="Edit User Details"  description="" />
+        <siteMapNode url="~/AccountDetails/TravellerDetails.aspx" title="Traveller Details"  description="" />
+    </siteMapNode>
+</siteMap>
